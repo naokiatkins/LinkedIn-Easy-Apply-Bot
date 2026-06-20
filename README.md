@@ -1,8 +1,8 @@
 # Linkedin EasyApply Bot
 Automate the application process on LinkedIn
 
-========================================================
-Forked from Nicolas Mantini's repository
+======================================================== <br>
+Forked from Nicolo Mantini's repository
 
 New additions:
 - log bot history as csv files to be visualized in Power BI
